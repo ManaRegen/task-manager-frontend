@@ -15,7 +15,7 @@ This document outlines the functional requirements for the Task Management appli
 | FR-002 | Google Authentication                         | Users must be able to authenticate via Google. | Should   | Planned    |       |
 | FR-003 | Task Calendar View                            | Users should be able to view their tasks on a calendar. | Should   | Planned    |       |
 | FR-004 | Email Reminders                               | Users could receive email reminders for upcoming tasks. | Could    | Future     |       |
-| FR-005 | Dashboard for Upcoming Tasks and Projects      | Users must have a dashboard to view upcoming tasks and projects. | Must     | Completed  |       |
+| FR-005 | Dashboard for Upcoming Tasks and Projects      | Users must have a dashboard to view upcoming tasks and projects. | Must     | Planned  |       |
 | FR-007 | External Task and Project Import              | The system could allow task and project import from external services. | Could    | Future     |       |
 
 ---
@@ -33,10 +33,10 @@ This document outlines the functional requirements for the Task Management appli
 | FR-014 | Due Date                                 | Users must specify a due date for the task.         | Must     | Planned    | Date format should be validated.           |
 | FR-015 | Priority Level                           | Users should assign a priority level to the task (0-5). | Should   | Planned    | Default priority can be set to 0.          |
 | FR-016 | Tags                                     | Users could add tags to categorize the task (e.g., Work, Personal). | Could    | Future     | Tags should be comma-separated.           |
-| FR-017 | Attachments                              | Users should be able to attach files related to the task. | Could   | Planned    | File size and type constraints should apply.|
+| FR-017 | Attachments                              | Users should be able to attach files related to the task. | Could   | Future    | File size and type constraints should apply.|
 | FR-018 | Task Status                              | Users must be able to set and update the task status (e.g., Completed, Incompleted). | Must     | Planned    | Status should be easily updatable via a button or checkbox.         |
-| FR-019 | Estimated Time to Complete               | Users could specify an estimated time to complete the task. | Could    | Planned    | Time input should support hours and minutes.|
-| FR-030 | Planned Completion Date             | Users could specify an planned date to complete the task. | Could    | Planned    | The planned completion date must precede the due date.|
+| FR-019 | Estimated Time to Complete               | Users could specify an estimated time to complete the task. | Could    | Future    | Time input should support hours and minutes.|
+| FR-030 | Planned Completion Date             | Users could specify an planned date to complete the task. | Could    | Future    | The planned completion date must precede the due date.|
 
 ---
 
