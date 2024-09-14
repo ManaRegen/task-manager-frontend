@@ -3,10 +3,7 @@
 ## 1. Introduction
 
 ### 1.1 Purpose
-This document outlines the functional requirements for describing tasks and projects within the [Project Name] application.
-
-### 1.2 Scope
-The requirements specify the fields available for users to provide details about tasks and projects, including any associated validation or constraints.
+This document outlines the functional requirements for the Task Management application.
 
 ---
 
